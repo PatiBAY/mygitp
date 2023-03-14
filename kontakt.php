@@ -1,5 +1,5 @@
 
-to jest tekst kolegi
+to jest tekst kolegi + zmiana w pliku kontakt w branchu
 
 <?php
 require 'nazwy.php';

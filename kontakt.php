@@ -1,3 +1,6 @@
+
+to jest tekst kolegi
+
 <?php
 require 'nazwy.php';
 
